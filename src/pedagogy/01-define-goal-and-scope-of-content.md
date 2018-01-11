@@ -1,4 +1,4 @@
- # Process Step 1 : Define Goal and Scope of Content  
+ # Step 1 : Define Goal and Scope of Content  
 ## Questionnaire
     - Question 1 :: What does the student learn from the
                     experiment?
@@ -45,8 +45,8 @@
          real-world problem like sorting the PAN card numbers
          of people in a district.
 
-    - Question 2  :: What is the level of learning (Bloom's
-                     Taxonomy) targeted by this experiment?
+    - Question 2  :: Till which level of Bloom's Taxonomy
+                    the experiment addresses learning?
 
     -  Answer 2 :: Student reaches level 3 of Bloom's Taxonomy -
          "Apply".  Students understand the concept (level 2) as well
