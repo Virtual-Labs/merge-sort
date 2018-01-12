@@ -22,30 +22,32 @@
                   applied? Also ensure that you have
                   reviewed the recommended pedagogy and
                   are adhering to it.
+                  
+For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).
 
 ## Questions and Answers
    **Question 1** : What does the student learn from the
-                     experiment?
+                    experiment?
 
    **Answer 1** : Student learns about merge sort, how
-                   it works and time complexity of the
-                   algorithm. Student is able to differentiate 
-                   between different sorting algorithms and 
-                   be able to choose merge sort usage when 
-                   required and apply it to the real-world problem 
-                   like sorting the PAN card numbers of people in a 
-                   district.
+                  it works and time complexity of the
+                  algorithm. Student is able to differentiate 
+                  between different sorting algorithms and 
+                  be able to choose merge sort usage when 
+                  required and apply it to the real-world problem 
+                  like sorting the PAN card numbers of people in a 
+                  district.
 
    **Question 2** : Till which level of Bloom's Taxonomy
-                     the experiment addresses learning?
+                    the experiment addresses learning?
 
    **Answer 2** : Student reaches level 3 of Bloom's Taxonomy -
-                   "Apply".  Students understand the concept 
-                   (level 2) as well as apply their knowledge 
-                   to a given sorting problem.
+                  "Apply".  Students understand the concept 
+                  (level 2) as well as apply their knowledge 
+                  to a given sorting problem.
 
    **Question 3** : How is the content designed
-                     so that it promotes learning?
+                    so that it promotes learning?
 
    **Answer 3** : Merrill's [first principles](http://mdavidmerrill.com/Papers/firstprinciplesbymerrill.pdf) of
                   instruction design is applied.  We use real-world
