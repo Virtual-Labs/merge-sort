@@ -6,6 +6,6 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Questions and Answers
     
-   **Question 7** : What is the title of the experiment?  
+   **Question 1** : What is the title of the experiment?  
 
-   **Answer 7** : Merge Sort
+   **Answer 1** : Merge Sort
