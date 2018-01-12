@@ -10,6 +10,8 @@
 
    All pretest questions are Single or Multiple Choice Questions so
     that it is easy to assess and provide immediate feedback.
+    
+For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).    
 
 ## Questions and Answers
    **Question 1** : Have you included questions to understand student's expectation from the
