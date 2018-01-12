@@ -15,9 +15,7 @@
    **Question 1** : Have you included questions to understand student's expectation from the
                   experiment?
     
-   **Answer 1** : Yes (sample question below) What is your
-        expectation from merge sort experiment?
-
+   **Answer 1** : Yes (sample question below) What is your expectation from merge sort experiment?
    a) Learn enough to clear my exam 
         b) Learn how merge sort is different from other sorting algorithms 
         c) Learn how to use merge sort in my program 
@@ -26,9 +24,9 @@
    **Question 2** : Have you included questions to understand
                     student's understanding of the theory?  
 
-   **Answer 2** : 
-   + Yes (sample questions below)
-                         All sorting algorithms take same time to run
+   **Answer 2** : Yes
+   + Sample questions below
+   All sorting algorithms take same time to run
                          a) True
                          b) False
    + Which sorting algorithm have you studied about before?
