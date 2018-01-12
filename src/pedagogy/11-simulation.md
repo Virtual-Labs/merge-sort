@@ -1,41 +1,42 @@
 ## Guidance
    The considerations for developing experiment simulations are:
 
-     * Similarity to real life.
+   + Similarity to real life.
 
-     * Real life data sets, ranges and processes available. 
+   + Real life data sets, ranges and processes available. 
 
-     * Factor data needed for feedback, quality and productivty measurements.
+   + Factor data needed for feedback, quality and productivty measurements.
 
-     * Ease of understanding.
+   + Ease of understanding.
 
-     * Simulation Model built.
+   + Simulation Model built.
 
-     * Experiment procedure aligned to simulation model.
+   + Experiment procedure aligned to simulation model.
 
-     * Elaborate procedure steps using available data - write requirements.
+   + Elaborate procedure steps using available data - write requirements.
 
-     * Define Work flow and failure resets.
+   + Define Work flow and failure resets.
 
-     * Data for intermediate validations of sub processes.
+   + Data for intermediate validations of sub processes.
 
-     * Factor in exceptions/constraints.
+   + Factor in exceptions/constraints.
 
-     * Include all stakeholder functions - Admin, network, instructor, student.
+   + Include all stakeholder functions - Admin, network, instructor, student.
 
-     * Repeatability, reliability and fault tolerance considerations.
+   + Repeatability, reliability and fault tolerance considerations.
 
-     * Scoring, quiz questions, marking, and other student evaluation aspects.
+   + Scoring, quiz questions, marking, and other student evaluation aspects.
 
-     * Network, bandwidth and failure mode scenarios.
+   + Network, bandwidth and failure mode scenarios.
 
-     * Identify demo modules, test cases etc.
+   + Identify demo modules, test cases etc.
      
-     Also refer to the guidance in the Simulation requirements step. 
+   Also refer to the guidance in the Simulation requirements step. 
      
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).     
 
 ## Sample
+
    **Question 1** : How does the student interact with the experiment?
    
    **Answer 2** : There is a lab bench which holds the
