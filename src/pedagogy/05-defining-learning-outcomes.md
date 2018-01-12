@@ -1,38 +1,33 @@
-# Process Step 5: Define Learning Outcomes
-## Questionnaire 
- 
-     - Question 1 :: What does the student accomplish at the end of
-                     the experiment?
 ## Guidance
-    Learning outcomes are driven by the objectives set for the
+   Learning outcomes are driven by the objectives set for the
     experiment, since the objectives also includes observable
     characteristics.  However, there are a few common outcomes that
     are always checked.
 
-    1. Were the steps correctly executed?
+   1. Were the steps correctly executed?
 
-    2. Was the outcome correct?
+   2. Was the outcome correct?
 
-    3. Were '/what if/' scenarios performed correctly?
+   3. Were '/what if/' scenarios performed correctly?
 
-    4. Did the student comprehend the content?
+   4. Did the student comprehend the content?
 
-    5. Is the student's speed of performing the experiment
+   5. Is the student's speed of performing the experiment
        acceptable?
 
-    6. Is the student motivated to do more?
+   6. Is the student motivated to do more?
 
-    7. Can the student apply the procedure for new set of
+   7. Can the student apply the procedure for new set of
        data?
 
-    8. Are the concepts of the student in order?
+   8. Are the concepts of the student in order?
 
 
 ## Question and Answers
-   - Question 1 :: What does the student accomplish at the end of the
+   **Question 1** : What does the student accomplish at the end of the
                    experiment?
     
-   - Answer 1 :: Student is able to recall the concept of merge
+   **Answer 1** : Student is able to recall the concept of merge
         sort (as evidenced by their response to post-test
         questions). The student is also able to sort any unsorted
         array using merge sort, and apply merge sort to any unordered
