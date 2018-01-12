@@ -18,7 +18,7 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Questions and Answers
 
-   **Question 1** : What are the links to universities' syllabus
+   **Question 1** : Provide the links to universities' syllabus
                     (course) where your experiment is listed as a
                     topic and aligned with the syllabus.
 
