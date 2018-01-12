@@ -14,7 +14,7 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                     you ask the student while he is going through the
                     theory section?
     
-   **Answer 2** : Yes (sample question below) 
+   **Answer 1** : Yes (sample question below) 
    + (This is asked at the end of Insertion sort section) Insertion sort has time complexity of               
                 a) O(n)
                 b) O(nlogn)
