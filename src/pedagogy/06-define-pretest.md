@@ -24,9 +24,8 @@
    **Question 2** : Have you included questions to understand
                     student's understanding of the theory?  
 
-   **Answer 2** : Yes
-   + Sample questions below
-   All sorting algorithms take same time to run
+   **Answer 2** : Yes (Sample questions below)
+   + All sorting algorithms take same time to run
                          a) True
                          b) False
    + Which sorting algorithm have you studied about before?
