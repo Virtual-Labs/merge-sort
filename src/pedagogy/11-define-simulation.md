@@ -61,7 +61,8 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 
    **Answer 2** : 
-                  1. Time spent on an activity
+                  
+   1. Time spent on an activity
                   2. Correctness of output
                   3. Correctness of steps followed 
                   4. How many times student attempted a problem before getting it right.
