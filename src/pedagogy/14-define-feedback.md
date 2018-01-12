@@ -22,7 +22,7 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
    **Question 2**: Are you including new questions around pedagogy, user experience and 
                   other new concepts?
                   
-   **Sample Answer 2**: Yes (sample questions below)
+   **Answer 2**: Yes (sample questions below)
    
    1. Rate the quality of user experience
         a) Like it a lot
