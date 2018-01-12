@@ -12,6 +12,6 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                     during the experiment?
 
    **Answer 1** :  
-                        1. How many inputs does a 'merge' operation take? 
-                        2. What happens when you split an array of 1 element? 
-                        3. What is the middle of an array with 6 elements?
+   + How many inputs does a 'merge' operation take? 
+   + What happens when you split an array of 1 element? 
+   + What is the middle of an array with 6 elements?
