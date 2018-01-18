@@ -1,0 +1,98 @@
+For the detailed guidelines please refer to the [[https://gitlab.com/vlead-projects/exp-pedagogy/blob/priya-exp-pedagogy/src/process/index.org][link]].
+* Pedagogy Mapping Checklist 
+
+  The following questions form the Pedagogy mapping
+  checklist.  This enables you to verify the compliance of
+  your proposed experiment with the prescribed pedagogy
+  structure.  Example answers to each question (with
+  reference to merge sort experiment ) is also included
+  below each question.
+
+  - Question 1 :: Does the 'Title' defined by you cover
+                  Bloom's Taxomomy Level 2 (Understanding)?
+                  Elaborate.
+
+  - Example 1  :: Yes the 'Title' covers the mentioned level
+                  by summarizing the objective of the
+                  experiment. Reference link - Questionnaire
+                  3
+
+  - Question 2 :: Does the 'Objectives' defined by you cover
+                  Bloom's Taxomomy Level 2 (Understanding),
+                  Level 3 (Applying) and Level 5
+                  (Evaluating)?  Elaborate.
+
+  -  Example 2 :: Yes the 'Objectives' covers the mentioned
+                 levels by comprehending, predicting and
+                 evaluating the outcome. Reference link -
+                 Questionnaire 1, 2, 4 and 5 
+  - Question 3 :: Does the 'Pre-Test' defined by you cover
+                  Bloom's Taxomomy Level 1
+                  (Remembering), Level 2 (Understanding) and
+                  Level 5 (Evaluating)?  Elaborate.
+
+  -  Example 3 :: Yes the 'Pre-Test' covers the mentioned
+                 levels by recalling, explaining and
+                 evaluating the student's
+                 readiness. Reference link - Questionnaire 6
+
+  - Question 4 :: Does the 'Theory' defined by you cover
+                  Bloom's Taxomomy Level 1 (Remembering),
+                  Level 2 (Understanding), Level 4
+                  (Analyzing) and Level 5 (Evaluating)?
+                  Elaborate.
+
+  -  Example 4 :: Yes the 'Theory' covers the mentioned
+                 levels by describing, explaining, analyzing
+                 and evaluating the concepts of the
+                 experiment. Reference link - Questionnaire
+                 7,8
+               
+  - Question 5 :: Does the 'Procedure' defined by you cover
+                  Bloom's Taxomomy Level 3 (Applying), Level
+                  4 (Analyzing) and Level 6 (Creating)?
+                  Elaborate.
+
+  -  Example 5 :: Yes the 'Procedure' covers the mentioned
+                 levels by detailing the method and listing
+                 the steps involved along . Reference link -
+                 Questionnaire 9
+                
+  - Question 6 :: Does the 'Simulation' defined by you cover
+                 Bloom's Taxomomy Level 3 (Applying), Level
+                 4 (Analyzing), Level 5 (Evaluating) and
+                 Level 6 (Creating)?  Elaborate.
+
+  -  Example 6 :: Yes the 'Simulation' covers the mentioned
+                 levels by allowing the student to apply the
+                 procedure to demonstrate the knowledge
+                 accquired and evaluating the outcome.
+                 Reference link - Questionnaire 10,11,12
+                
+  - Question 7 :: Does the 'Quiz' defined by you cover
+                 Bloom's Taxomomy Level 1 (Remembering),
+                 Level 2 (Understanding), Level 4
+                 (Analyzing) and Level 5 (Evaluating)?
+                 Elaborate.
+
+  -  Example 7 :: Yes the 'Quiz' covers the mentioned levels
+                 by recalling, explaining and evaluating the
+                 student's knowledge gained after performing
+                 the experiment. Reference link -
+                 Questionnaire 13
+
+  - Question 8 :: Does the 'Feedback' defined by you cover
+                 Bloom's Taxomomy Level 2 (Understanding)
+                 and Level 5 (Evaluating)?  Elaborate.
+
+  - Example 8 :: Yes the 'Feedback' covers the mentioned
+                levels by asking relevant questions to the
+                student to understand and evaluate the
+                student's experience. Reference link -
+                Questionnaire 14
+
+                
+  In order to help you fill the check list we encourage you
+  to read the Guidelines section below and subsequently
+  answer all the pedagogy process steps questionnaires in
+  your experiment repository.
