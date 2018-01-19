@@ -37,33 +37,33 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Sample
 
-   **Question 1** : How does the student interact with the experiment?
+   **Question 1** : How will the student _interact_ with
+                     the experiment?  What are the "what-if"
+                     scenarios that have been included in
+                     the simulation?
    
-   **Answer 2** : There is a lab bench which holds the
-                        primitive operations and the inputs that can
-                        used for the experiment, it also has a 'lab
-                        floor' where experiments happen when primitives
-                        and inputs are dragged on the floor in a valid
-                        way. 
+   **Answer 2** : There will be a lab bench which holds the primitive
+                  operations and the inputs that can used for the
+                  experiment, it also has a 'lab floor' where
+                  experiments happen when primitives and inputs are
+                  dragged on the floor in a valid way.
 
- Output of the experiment is shown on the
-                        screen and student can record them for later
-                        use. 
+                  Output of the experiment is shown on the screen and
+                  student can record them for later use.
 
- Experiments are recorded and played
-                        back. This is built using front-end
-                        technologies like JS and HTML5 so that it
-                        works well on different form factors like
-                        tablets and mobile devices.
+                 Experiments can be recorded and played back. This is
+                 built using front-end technologies and use JS and
+                 HTML5 so that it can work well on different form
+                 factors like tablet and mobile.
 
-  **Question 2** : What metrics are used to understand the students'
-                   extent of learning?
+  **Question 2** : What metrics will you use to _evaluate_
+                   the student's extent of learning?
 
 
    **Answer 2** : 
                   
-   1. Time spent on an activity
+   		  1. Time spent on an activity
                   2. Correctness of output
-                  3. Correctness of steps followed 
-                  4. How many times student attempted a problem before getting it right.
-    
+                  3. Correctness of steps followed
+                  4. How many times student attempted a problem
+                     before getting it right.

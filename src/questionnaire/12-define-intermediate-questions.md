@@ -8,10 +8,15 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
   
 ## Questions and Answers
 
-   **Question 1** : What in-experiment questions have you defined that can be asked
-                    during the experiment?
+   **Question 1** : What in-experiment questions have you
+                    defined that can be asked during the
+                    experiment to evaluate student's
+                    understanding of the procedure?
 
-   **Answer 1** :  
-   + How many inputs does a 'merge' operation take? 
-   + What happens when you split an array of 1 element? 
-   + What is the middle of an array with 6 elements?
+   **Answer 1** : Questions like the ones listed below will be asked
+                  to the student in the Simulation Section.
+ 
+                    1. How many inputs does a 'merge' operation take?
+                    2. What happens when you split an array of 1
+                       element
+		    3. What is the middle of an array with 6 elements

@@ -21,16 +21,32 @@
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).    
 
 ## Questions and Answers
-   **Question 1** : Does the content written by you relate to the
-                    principles used in the experiment?
+   **Question 1** :  What is the _content and explanation_
+                     written to relate and understand the
+                     principles of the experiment?
     
-   **Answer 1** : Yes 
+   **Answer 1** : Basics of a few sorting algorithms like Insertion
+                  Sort and Heap Sort are described in first page to
+                  reorient the student to sorting algorithms.  Need
+                  for an efficient algorithm is established, and
+                  principles of merge sort are explained in next 3
+                  paragraphs.  Diagram 1 shows how merge sort operates
+                  in a step by step manner. Page 2 is devoted to
+                  explaining order of complexity of sorting algorithms
+                  and of merge sort. Diagram 2 shows why merge sort
+                  has O(nlogn) complexity.
 
-   **Question 2** : Are the per-requisites described adequately?
-    
-   **Answer 2** : Yes 
-    
-   **Question 3** : Are references and related reading included in
-                    this section?
 
-   **Answer 3** : Yes
+   **Question 2** : What are the pre-requisites for doing
+                    this experiment?
+    
+   **Answer 2** : Student should be able to understand the concept of
+                  ordering, and knows at least one sorting algorithm
+                  before. Student should have been introduced to the
+                  concept of order of complexity of an algorithm.
+    
+   **Question 3** : What are references and related reading
+                    included in this section?
+
+   **Answer 3** :  [[https://en.wikipedia.org/wiki/Merge_sort][Wikipedia intro]] 
+                         [[https://www.youtube.com/watch?v=ELiBnWGrxsE][Animation of merge sort example]]

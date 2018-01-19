@@ -26,37 +26,46 @@
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).
 
 ## Questions and Answers
-   **Question 1** : What does the student learn from the
-                    experiment?
+   **Question 1** : How will you _summarize_ and state the
+                    objective of the experiment in a
+                    _comprehensive manner_?
 
-   **Answer 1** : Student learns about merge sort, how
-                  it works and time complexity of the
-                  algorithm. Student is able to differentiate 
-                  between different sorting algorithms and 
-                  be able to choose merge sort usage when 
-                  required and apply it to the real-world problem 
-                  like sorting the PAN card numbers of people in a 
-                  district.
+   **Answer 1** : Student understands how merge sort works, and is
+                  able to explain the algorithm to others.Student is
+                  able to apply merge sort when given an array of
+                  numbers.  They are able to differentiate between
+                  different sorting algorithms and are able to choose
+                  right situation to apply merge sort.  Student is
+                  able to apply merge sort to a real-world problem
+                  like sorting the marks of all students in an
+                  entrance exam.
 
-   **Question 2** : Till which level of Bloom's Taxonomy
-                    the experiment addresses learning?
+   **Question 2** : State how the scope defined for the
+                     experiment ensures that the content
+                     enhances _understanding_ of the
+                     student?
 
-   **Answer 2** : Student reaches level 3 of Bloom's Taxonomy -
-                  "Apply".  Students understand the concept 
-                  (level 2) as well as apply their knowledge 
-                  to a given sorting problem.
+   **Answer 2** : Theory section explains merge sort with an example,
+                  and also includes questions to reiterate the
+                  learning. Simulation shows it merge sort in action
+                  using animation, and also tests their understanding
+                  by letting them try out the merge sort with an
+                  example.
 
-   **Question 3** : How is the content designed
-                    so that it promotes learning?
+   **Question 3** : What are the aspects that need _application_ of
+                    understanding in the experiment?
 
-   **Answer 3** : Merrill's [first principles](http://mdavidmerrill.com/Papers/firstprinciplesbymerrill.pdf) of
-                  instruction design is applied.  We use real-world
-                  problems and leverage existing knowledge of sorting
-                  to teach merge sort. We use animation to
-                  demonstrate concepts and let the student use merge
-                  sort process by experimenting with it.
+   **Answer 3** : Simulation includes exercises where student is asked
+                  to run merge sort experiment on their own and record
+                  their observations. Student is also asked to correct
+                  errors in a given merge sort example and thereby
+                  apply their understanding of the algorithm.
 
-   **Question 4** : What procedure of teaching is applied?
 
-   **Answer 4** : We apply the pedagogy as described in this
-                  document.
+   **Question 4** : Explain how to _evaluate_ the performance of the
+                     student in the experiment.
+
+   **Answer 4** : Evaluation is made through quiz at the end of the
+                  experiment, exercises within the simulation, as well
+                  as questions asked within the theory section.
+

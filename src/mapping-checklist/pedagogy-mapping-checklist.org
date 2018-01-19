@@ -8,61 +8,63 @@ For the detailed guidelines please refer to the [[https://gitlab.com/vlead-proje
   reference to merge sort experiment ) is also included
   below each question.
 
- - Question 1 :: Does the 'Title' defined by you cover
-                  Bloom's Taxomomy Level 2 (Understanding)?
-                  Elaborate.
+ - Question 1 ::  Does the 'Title' cover [[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]]
+                  Level 2 (Understanding)? Elaborate.
 
- - Answer 1  :: Yes the 'Title' covers the mentioned level
+ - Answer 1  :: Yes the 'Title' the mentioned level
                   by summarizing the objective of the
-                  experiment. Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/03-define-experiment-title.md][Questionnaire
-                  3]]
+                  experiment.  
+                  Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/03-define-experiment-title.md][Questionnaire 3]]
 
- - Question 2 :: Does the 'Objectives' defined by you cover
-                  Bloom's Taxomomy Level 2 (Understanding),
+ - Question 2 :: Does the 'Objective' cover
+                  [[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 2 (Understanding),
                   Level 3 (Applying) and Level 5
                   (Evaluating)?  Elaborate.
 
- - Answer 2 :: Yes the 'Objectives' covers the mentioned
+ - Answer 2 :: Yes the 'Objective' covers the mentioned
                  levels by comprehending, predicting and
-                 evaluating the outcome. Reference link -
-                 [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/01-define-goal-and-scope-of-content.md][ Questionnaire 1]], 
+                 evaluating the outcome. 
+                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/01-define-goal-and-scope-of-content.md][ Questionnaire 1]], 
                  [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/02-align-to-syllabus.md][Questionnaire 2]], [[https://github.com/virtual-labs/merge-sort/blob/master/src/pedagogy/04-define-learning-objectives.md][Questionnaire 4]] and  
                  [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/05-define-learning-outcomes.md][Questionnaire 5]]. 
 
- - Question 3 :: Does the 'Pre-Test' defined by you cover
-                  Bloom's Taxomomy Level 1
-                  (Remembering), Level 2 (Understanding) and
-                  Level 5 (Evaluating)?  Elaborate.
+ - Question 3 :: Does the 'Pre-Test' cover
+                  [[
+                   http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 1 (Remembering), Level 2
+                  (Understanding) and Level 5 (Evaluating)?
+                  Elaborate.
 
  - Answer 3 :: Yes the 'Pre-Test' covers the mentioned
                  levels by recalling, explaining and
                  evaluating the student's
-                 readiness. Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/06-define-pretest.md][Questionnaire 6]]
+                 readiness. 
+                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/06-define-pretest.md][Questionnaire 6]]
                  
- - Question 4 :: Does the 'Theory' defined by you cover
-                  Bloom's Taxomomy Level 1 (Remembering),
-                  Level 2 (Understanding), Level 4
-                  (Analyzing) and Level 5 (Evaluating)?
-                  Elaborate.
+ - Question 4 :: Does the 'Theory' cover 
+                  [[
+                   http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 1 (Remembering), Level 2
+                  (Understanding), Level 4 (Analyzing) and
+                  Level 5 (Evaluating)?  Elaborate.
 
  - Answer 4 :: Yes the 'Theory' covers the mentioned
                  levels by describing, explaining, analyzing
                  and evaluating the concepts of the
-                 experiment. Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/07-define-theory-section.md][Questionnaire 7]]
-                 , [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/08-define-theory-intermediate-questions.md][Questionnaire 8]]
+                 experiment. 
+                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/07-define-theory-section.md][Questionnaire 7]] and 
+                 [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/08-define-theory-intermediate-questions.md][Questionnaire 8]]
                
- - Question 5 :: Does the 'Procedure' defined by you cover
-                  Bloom's Taxomomy Level 3 (Applying), Level
+ - Question 5 :: Does the 'Procedure' cover
+                  [[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 3 (Applying), Level
                   4 (Analyzing) and Level 6 (Creating)?
                   Elaborate.
 
- - Answer 5 :: Yes the 'Procedure' covers the mentioned
+ - Answer 5 ::  Yes the 'Procedure' covers the mentioned
                  levels by detailing the method and listing
-                 the steps involved along . Reference link -
-                 [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/09-define-experiment-procedure.md][Questionnaire 9]].
+                 the steps involved along . 
+                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/09-define-experiment-procedure.md][Questionnaire 9]].
                 
- - Question 6 :: Does the 'Simulation' defined by you cover
-                 Bloom's Taxomomy Level 3 (Applying), Level
+ - Question 6 :: Does the 'Simulation' cover
+                 [[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 3 (Applying), Level
                  4 (Analyzing), Level 5 (Evaluating) and
                  Level 6 (Creating)?  Elaborate.
 
@@ -70,11 +72,11 @@ For the detailed guidelines please refer to the [[https://gitlab.com/vlead-proje
                  levels by allowing the student to apply the
                  procedure to demonstrate the knowledge
                  accquired and evaluating the outcome.
-                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/10-define-simulation-requirements.md][Questionnaire 10]], [[https://github.com/virtual-labs/merge-sort/blob/master/src/pedagogy/11-define-simulation.md][Questionnaire 11]],
-                 [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/12-define-intermediate-questions.md][Questionnaire 12]]
+                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/10-define-simulation-requirements.md][Questionnaire 10]],
+                 [[https://github.com/virtual-labs/merge-sort/blob/master/src/pedagogy/11-define-simulation.md][Questionnaire 11]] and [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/12-define-intermediate-questions.md][Questionnaire 12]]
                  
- - Question 7 :: Does the 'Quiz' defined by you cover
-                 Bloom's Taxomomy Level 1 (Remembering),
+ - Question 7 :: Does the 'Quiz' cover
+                 [[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 1 (Remembering),
                  Level 2 (Understanding), Level 4
                  (Analyzing) and Level 5 (Evaluating)?
                  Elaborate.
@@ -82,20 +84,21 @@ For the detailed guidelines please refer to the [[https://gitlab.com/vlead-proje
  - Answer 7 :: Yes the 'Quiz' covers the mentioned levels
                  by recalling, explaining and evaluating the
                  student's knowledge gained after performing
-                 the experiment. Reference link -
-                 [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/13-define-quiz.md][Questionnaire 13]]
+                 the experiment. 
+                 Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/13-define-quiz.md][Questionnaire 13]]
 
- - Question 8 :: Does the 'Feedback' defined by you cover
-                 Bloom's Taxomomy Level 2 (Understanding)
+ - Question 8 :: Does the 'Feedback' cover
+                 [[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's Taxonomy]] Level 2 (Understanding)
                  and Level 5 (Evaluating)?  Elaborate.
 
  - Answer 8 :: Yes the 'Feedback' covers the mentioned
                 levels by asking relevant questions to the
                 student to understand and evaluate the
-                student's experience. Reference link -
-                [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/14-define-feedback.md][Questionnaire 14]]
+                student's experience. 
+                Reference link - [[https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/14-define-feedback.md][Questionnaire 14]]
+
                 
-  In order to help you fill the check list we encourage you
-  to read the Guidelines section below and subsequently
-  answer all the pedagogy process steps questionnaires in
-  your experiment repository.
+  In order to help you fill the check list we encourage you to read
+  the Guidelines section below and subsequently answer all the
+  pedagogy process steps questionnaires in your experiment repository.
+

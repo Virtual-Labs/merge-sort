@@ -23,13 +23,15 @@
 
 ## Questions and Answers
 
-   **Question 1** : What is a comprehensive and lucid
-                  statement of what the student is able
-                  to learn and demonstrate at the end of the
-                  experiment?
-    
-   **Answer 1** : At the end of the experiment, student will be
-        able to sort any given unsorted array using merge sort. They
-        will also be able to demonstrate the order of complexity
-        calculation of the algorithm and apply merge sort in right
-        real-world problem.
+   **Question 1** : What is a _comprehensive_ and lucid statement of
+                   what the student is able to _understand_ and
+                   _demonstrate_ and also can be evaluated on at the
+                   end of the experiment?
+   
+   **Answer 1** : At the end of the experiment, student will be able
+                  to sort any given unsorted array using merge
+                  sort. They will also be able to demonstrate the
+                  order of complexity calculation of the algorithm and
+                  apply merge sort in right real-world problem. They
+                  will be able to select right sorting algorithm to
+                  use in a given situation.

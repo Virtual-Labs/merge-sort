@@ -14,30 +14,44 @@
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).    
 
 ## Questions and Answers
-   **Question 1** : Have you included questions to understand student's expectation from the
-                  experiment?
+   **Question 1** : What questions have you included to
+                    _understand_ student's expectation from
+                    the experiment?
     
-   **Answer 1** : Yes (sample question below) What is your expectation from merge sort experiment?
-   a) Learn enough to clear my exam 
-        b) Learn how merge sort is different from other sorting algorithms 
-        c) Learn how to use merge sort in my program 
-        d) Others
+   **Answer 1** : Questions like the ones listed
+        below will be asked to the student in the Pre-Test Section.
 
-   **Question 2** : Have you included questions to understand
-                    student's understanding of the theory?  
+     What is your expectation from merge sort experiment?
 
-   **Answer 2** : Yes (Sample questions below)
-   + All sorting algorithms take same time to run
-                         a) True
-                         b) False
-   + Which sorting algorithm have you studied about before?
-                     a) None
-                     b) Insertion Sort
-                     c) Bubble Sort
-                     d) Others
+     1. Learn enough to clear my exam 
+     2. Learn how merge sort is different from other sorting algorithms 
+     3. Learn how to use merge sort in my program 
+     4. Others
+
+   **Question 2** :  What questions have you included to
+                    understand student's _prior understanding_
+                    of the theory? 
+
+   **Answer 2** : Questions like the ones listed
+        below will be asked to the student in the Pre-Test Section.
+
+     All sorting algorithms take same time to run
+       1. True
+       2. False
+     Sorting algorithms for sorting numbers can also be applied to sort strings
+       1. True
+       2. False 
                     
               
-   **Question 3** : Have you included questions to understand
-                    student's prior exposure to similar experiments?
+   **Question 3** : What questions have you included to
+                    understand student's _prior exposure_ to
+                    similar experiments?
                     
-   **Answer 3** : Yes
+   **Answer 3** : Questions like the ones listed
+        below will be asked to the student in the Pre-Test Section.
+
+     Which sorting algorithm have you studied about before?
+     1. Insertion Sort 
+     2. None
+     3. Bubble Sort 
+     4. Others
