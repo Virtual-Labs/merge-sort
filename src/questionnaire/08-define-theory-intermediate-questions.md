@@ -10,13 +10,13 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Sample
 
-   **Question 1** : What are the questions that will be
+   **Question 16** : What are the questions that will be
                     interspersed in the theory section in
                     order to _evaluate_ the _understanding_
                     of the student while going through the
                     content?
     
-   **Answer 1** : Questions like the ones listed
+   **Answer 16** : Questions like the ones listed
         below will be asked to the student in the Theory
         Section
 
@@ -35,10 +35,10 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
      1. False
      2. True
                 
-   **Question 2** : Have you provided the position within the theory
+   **Question 17** : Have you provided the position within the theory
                     where the question is asked?
   
-   **Answer 2** : Questions will be asked at the end of Insertion sort
+   **Answer 17** : Questions will be asked at the end of Insertion sort
                    section and HeapSort section.
   
 

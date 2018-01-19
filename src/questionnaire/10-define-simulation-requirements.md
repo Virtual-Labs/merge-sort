@@ -17,35 +17,35 @@
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).    
 
 ## Sample
-   **Question 1** : What requirements of the experiment are
+   **Question 20** : What requirements of the experiment are
                      _applied_ to develop the experiment
                      simulation?
     
-   **Answer 1** : There are 4 primitives that the simulation provides
+   **Answer 20** : There are 4 primitives that the simulation provides
                   - index, compare, split, merge.  These primitives
                   are applied to a given input (array of numbers for
                   example).  The steps followed by the student are
                   recorded and played back.
 
 
-   **Question 2** : What scenarios, other than the normal
+   **Question 21** : What scenarios, other than the normal
                      experiment process, are executed in the
                      experiment?
 
-   **Answer 2** : Student selects different types of input arrays.
+   **Answer 21** : Student selects different types of input arrays.
     
-   **Question 3** : What are the data points that need to be
+   **Question 22** : What are the data points that need to be
                      collected from the experiment?
 
-   **Answer 3** : For each experiment, student captures the result of
+   **Answer 22** : For each experiment, student captures the result of
                   the operation (split or merge) and counts the number
                   of operations from the records.
 
-   **Question 4** : What flexibility is offered to the
+   **Question 23** : What flexibility is offered to the
                      student in order to analyse and create
                      "what-if" scenarios?
 
-   **Answer 4** : Student chooses the input array.  The student also
+   **Answer 23** : Student chooses the input array.  The student also
                   chooses the primitive to be applied to the input.
                   In case of error, the simulation provides a clear
                   message and a hint to overcome the error.

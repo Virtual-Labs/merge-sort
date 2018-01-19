@@ -8,10 +8,10 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
       
 ## Questions and Answers
    
-   **Question 1** : What are the [[http://feedback.vlabs.ac.in/feedback/experiment][default questions]] that
+   **Question 32** : What are the [[http://feedback.vlabs.ac.in/feedback/experiment][default questions]] that
                       are included in the feedback? 
      
-   **Answer 1**:  Questions like the ones listed
+   **Answer 32**:  Questions like the ones listed
                            below will be asked to the student 
                            in the Feedback Section.
                    
@@ -26,12 +26,12 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                          6. What are the gaps and issues with the
                             expermints?
 
-   **Question 2**: What are the new questions around
+   **Question 33**: What are the new questions around
                        pedagogy, user experience, other new
                        concepts that you have included in
                        the feedback ?
                   
-   **Answer 2**: Questions like the ones listed
+   **Answer 33**: Questions like the ones listed
                          below will be asked to the student 
                          in the Feedback Section.
                    

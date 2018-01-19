@@ -24,12 +24,12 @@
 
 
 ## Question and Answers
-   **Question 1** :What does the student _accomplish_ at the
+   **Question 9** :What does the student _accomplish_ at the
                    end of the experiment by way of
                    understanding and applying the learnings?
                    How is this learning verified?
     
-   **Answer 1** : Student is able to recall the concept of merge sort
+   **Answer 9** : Student is able to recall the concept of merge sort
                   (as evidenced by their response to post-test
                   questions). The student is also able to sort any
                   unsorted array using merge sort, and apply merge

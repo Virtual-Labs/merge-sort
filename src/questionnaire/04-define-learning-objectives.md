@@ -23,12 +23,12 @@
 
 ## Questions and Answers
 
-   **Question 1** : What is a _comprehensive_ and lucid statement of
+   **Question 8** : What is a _comprehensive_ and lucid statement of
                    what the student is able to _understand_ and
                    _demonstrate_ and also can be evaluated on at the
                    end of the experiment?
    
-   **Answer 1** : At the end of the experiment, student will be able
+   **Answer 8** : At the end of the experiment, student will be able
                   to sort any given unsorted array using merge
                   sort. They will also be able to demonstrate the
                   order of complexity calculation of the algorithm and

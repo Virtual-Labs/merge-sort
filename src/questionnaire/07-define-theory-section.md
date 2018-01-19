@@ -21,11 +21,11 @@
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).    
 
 ## Questions and Answers
-   **Question 1** :  What is the _content and explanation_
+   **Question 13** :  What is the _content and explanation_
                      written to relate and understand the
                      principles of the experiment?
     
-   **Answer 1** : Basics of a few sorting algorithms like Insertion
+   **Answer 13** : Basics of a few sorting algorithms like Insertion
                   Sort and Heap Sort are described in first page to
                   reorient the student to sorting algorithms.  Need
                   for an efficient algorithm is established, and
@@ -37,16 +37,16 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                   has O(nlogn) complexity.
 
 
-   **Question 2** : What are the pre-requisites for doing
+   **Question 14** : What are the pre-requisites for doing
                     this experiment?
     
-   **Answer 2** : Student should be able to understand the concept of
+   **Answer 14** : Student should be able to understand the concept of
                   ordering, and knows at least one sorting algorithm
                   before. Student should have been introduced to the
                   concept of order of complexity of an algorithm.
     
-   **Question 3** : What are references and related reading
+   **Question 15** : What are references and related reading
                     included in this section?
 
-   **Answer 3** :  [[https://en.wikipedia.org/wiki/Merge_sort][Wikipedia intro]] 
+   **Answer 15** :  [[https://en.wikipedia.org/wiki/Merge_sort][Wikipedia intro]] 
                          [[https://www.youtube.com/watch?v=ELiBnWGrxsE][Animation of merge sort example]]

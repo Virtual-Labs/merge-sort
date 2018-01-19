@@ -9,11 +9,11 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Questions and Answers
 
-   **Question 1** : What are the steps that the student must
+   **Question 18** : What are the steps that the student must
                     _execute_ to _perform_ and _verify_ the
                     successful completion of the experiment?
     
-   **Answer 1** : The students execute the steps listed
+   **Answer 18** : The students execute the steps listed
                          below to perform the experiment
   
                          1. Pick an array to sort.
@@ -28,9 +28,9 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                             original array.
                          6. You have the sorted array
     
-   **Question 2** :  What are the additional instructions given
+   **Question 19** :  What are the additional instructions given
                     to the student to have a clear
                     understanding of the experiment
                     procedure?
     
-   **Answer 2** : 1) Make sure all steps are recorded in your notepad 
+   **Answer 19** : 1) Make sure all steps are recorded in your notepad 

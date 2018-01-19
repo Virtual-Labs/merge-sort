@@ -8,12 +8,12 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
   
 ## Questions and Answers
 
-   **Question 1** : What in-experiment questions have you
+   **Question 26** : What in-experiment questions have you
                     defined that can be asked during the
                     experiment to evaluate student's
                     understanding of the procedure?
 
-   **Answer 1** : Questions like the ones listed below will be asked
+   **Answer 26** : Questions like the ones listed below will be asked
                   to the student in the Simulation Section.
  
                     1. How many inputs does a 'merge' operation take?

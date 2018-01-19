@@ -14,11 +14,11 @@
 For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).    
 
 ## Questions and Answers
-   **Question 1** : What questions have you included to
+   **Question 10** : What questions have you included to
                     _understand_ student's expectation from
                     the experiment?
     
-   **Answer 1** : Questions like the ones listed
+   **Answer 10** : Questions like the ones listed
         below will be asked to the student in the Pre-Test Section.
 
      What is your expectation from merge sort experiment?
@@ -28,11 +28,11 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
      3. Learn how to use merge sort in my program 
      4. Others
 
-   **Question 2** :  What questions have you included to
+   **Question 11** :  What questions have you included to
                     understand student's _prior understanding_
                     of the theory? 
 
-   **Answer 2** : Questions like the ones listed
+   **Answer 11** : Questions like the ones listed
         below will be asked to the student in the Pre-Test Section.
 
      All sorting algorithms take same time to run
@@ -43,11 +43,11 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
        2. False 
                     
               
-   **Question 3** : What questions have you included to
+   **Question 12** : What questions have you included to
                     understand student's _prior exposure_ to
                     similar experiments?
                     
-   **Answer 3** : Questions like the ones listed
+   **Answer 12** : Questions like the ones listed
         below will be asked to the student in the Pre-Test Section.
 
      Which sorting algorithm have you studied about before?

@@ -9,51 +9,51 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
      
 ## Sample
     
-   **Question 1** : What are the questions that check recall of
+   **Question 27** : What are the questions that check recall of
                       read/used content ([[
                       http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's
                       Taxonomy]] level 1)?
                    
-   **Answer 1** : Questions like the ones listed below will be asked
+   **Answer 27** : Questions like the ones listed below will be asked
                          to the student in the Quiz Section.
                    
                          1) What is the order of complexity of Merge Sort?
                          2) What is the worst case complexity of Merge Sort?             
 
-   **Question 2** : What are the questions that check the
+   **Question 28** : What are the questions that check the
                       understanding of the concept ([[
                       http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's
                       Taxonomy]] level 2)?
 
                    
-   **Answer 2** : Questions like the ones listed
+   **Answer 28** : Questions like the ones listed
                          below will be asked to the student 
                          in the Quiz Section.
 
                          1) True or False: Merge sort can be implemented in a non-recursive manner. 
 
 
-   **Question 3** : What are the questions that examine
+   **Question 29** : What are the questions that examine
                       the students' ability to apply the
                       learning from the experiment ([[ http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy][Bloom's
                       Taxonomy]] level 3)?
 
                    
-   **Answer 3** : Questions like the ones listed
+   **Answer 29** : Questions like the ones listed
                          below will be asked to the student 
                          in the Quiz Section.
 
                         1) How many steps of split you do for an array with 13 elements?
 
 
-   **Question 4** : What scoring mechanism is used in the quiz?
+   **Question 30** : What scoring mechanism is used in the quiz?
      
-   **Answer 4** : Multiple choice questions with auto-evaluate. 
+   **Answer 30** : Multiple choice questions with auto-evaluate. 
 
-   **Question 5**  : What assessment and marking provision
+   **Question 31**  : What assessment and marking provision
                       is used in the quiz?
 
 
-   **Answer 5** :  Multiple choice questions which
+   **Answer 31** :  Multiple choice questions which
           are auto-evaluated,with immediate feedback along
           with reasons for incorrect responses.

@@ -37,12 +37,12 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Sample
 
-   **Question 1** : How will the student _interact_ with
+   **Question 24** : How will the student _interact_ with
                      the experiment?  What are the "what-if"
                      scenarios that have been included in
                      the simulation?
    
-   **Answer 2** : There will be a lab bench which holds the primitive
+   **Answer 24** : There will be a lab bench which holds the primitive
                   operations and the inputs that can used for the
                   experiment, it also has a 'lab floor' where
                   experiments happen when primitives and inputs are
@@ -56,11 +56,11 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                  HTML5 so that it can work well on different form
                  factors like tablet and mobile.
 
-  **Question 2** : What metrics will you use to _evaluate_
+  **Question 25** : What metrics will you use to _evaluate_
                    the student's extent of learning?
 
 
-   **Answer 2** : 
+   **Answer 25** : 
                   
    		  1. Time spent on an activity
                   2. Correctness of output

@@ -6,9 +6,9 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 
 ## Questions and Answers
     
-   **Question 1** : Summarize and state the objective of the
+   **Question 7** : Summarize and state the objective of the
                     experiment in a comprehensive manner to form the
                     title of the experiment?
 
-   **Answer 1** : Understanding the concept & application of
+   **Answer 7** : Understanding the concept & application of
                   merge-sort algorithm.
