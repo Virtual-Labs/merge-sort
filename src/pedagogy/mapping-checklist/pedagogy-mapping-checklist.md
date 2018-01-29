@@ -28,12 +28,12 @@
                  [Questionnaire
                  2](https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/02-align-to-syllabus.md),
                  [Questionnaire
-                 4]](https://github.com/virtual-labs/merge-sort/blob/master/src/pedagogy/04-define-learning-objectives.md)
+                 4](https://github.com/virtual-labs/merge-sort/blob/master/src/pedagogy/04-define-learning-objectives.md)
                  and [Questionnaire
-                 5(https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/05-define-learning-outcomes.md).
+                 5](https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/05-define-learning-outcomes.md).
 
-   **Question 3** : Does the 'Pre-Test' cover [Bloom's Taxonomy]
-                  (http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)
+   **Question 3** : Does the 'Pre-Test' cover [Bloom's
+                  Taxonomy](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)
                   Level 1 (Remembering), Level 2 (Understanding) and
                   Level 5 (Evaluating)?  Elaborate.
 
@@ -56,7 +56,7 @@
                  [Questionnaire
                  7](https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/07-define-theory-section.md)
                  and [Questionnaire
-                 8](https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/08-define-theory-intermediate-questions.md]
+                 8](https://github.com/virtual-labs/merge-sort/blob/master/src/questionnaire/08-define-theory-intermediate-questions.md)
 
    **Question 5** : Does the 'Procedure' cover [Bloom's
                   Taxonomy](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)

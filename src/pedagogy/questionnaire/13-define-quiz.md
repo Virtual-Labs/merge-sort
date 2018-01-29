@@ -10,8 +10,8 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
 ## Sample
     
    **Question 27** : What are the questions that check recall of
-                      read/used content[Bloom's Taxonomy level 1](
-                      http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)?
+                      read/used content [Bloom's Taxonomy](
+                      http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy) level 1?
                    
    **Answer 27** : Questions like the ones listed below will be asked
                          to the student in the Quiz Section.
@@ -20,9 +20,9 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
                          2) What is the worst case complexity of Merge Sort?             
 
    **Question 28** : What are the questions that check the
-                      understanding of the concept [Bloom's Taxonomy
-                      level
-                      2](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)?
+                      understanding of the concept [Bloom's
+                      Taxonomy](http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)
+                      level 2 ?
 
                    
    **Answer 28** : Questions like the ones listed
@@ -35,8 +35,8 @@ For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-
    **Question 29** : What are the questions that examine
                       the students' ability to apply the
                       learning from the experiment [Bloom's
-                      Taxonomy level 3]?
-(http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy)
+                      Taxonomy]
+(http://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy) level 3?
                    
    **Answer 29** : Questions like the ones listed
                          below will be asked to the student 
