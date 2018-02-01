@@ -2,7 +2,7 @@
    Pick a title that explains the intent well. Also pick the name
    for the lab and the domain it applies to.
    
-For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/).   
+For more details follow the [link](http://community.virtual-labs.ac.in/docs/ph3-new-exp-dev/ "Dev Process").
 
 ## Questions and Answers
     
